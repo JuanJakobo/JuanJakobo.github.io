@@ -33,7 +33,7 @@ header_pages:
   #  - projects.markdown
   - blog.markdown
   #- about.markdown
-  #- cv.markdown
+  - cv.markdown
 
 # Build settings
 theme: minima
