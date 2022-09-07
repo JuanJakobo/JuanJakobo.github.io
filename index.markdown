@@ -6,3 +6,5 @@ layout: page
 ---
 Welcome to my personal page!
 
+:
+Do you like [riddles](https://riddle.johannsn.com)?
