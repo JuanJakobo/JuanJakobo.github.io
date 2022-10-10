@@ -6,5 +6,7 @@ layout: page
 ---
 Welcome to my personal page!
 
-:
+In my free time I like to do trips with my road bike. You can see longer tours at
+[https://tours.johannsn.com](https://tours.johannsn.com).
+
 Do you like [riddles](https://riddle.johannsn.com)?
