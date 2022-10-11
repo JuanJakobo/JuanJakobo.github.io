@@ -30,7 +30,7 @@ github_username:  juanjakobo
 
 
 header_pages:
-  #  - projects.markdown
+  - projects.html
   - blog.markdown
   #- about.markdown
   - cv.markdown
